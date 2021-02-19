@@ -1,0 +1,16 @@
+1a. numberOfQuestions - integer
+b. averageAge -float
+c. debugMode - bool
+d. name - string
+e. ages - list #array
+f. months - tuple
+g. months[1] -string
+h. book - set #dict
+i. stuff - list
+j. stuff[2] -string
+k. someone - dict
+l. someone["firstname"] - string
+m. me - dict #array
+n. me["teaching"] -dict
+o. me["teaching"][0]["semester"] - integer
+p. null #undefined
