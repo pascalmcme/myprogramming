@@ -18,8 +18,8 @@ numbers.sort(reverse=True)
 print(numbers)
 
 top=[]
-for number in range(0,3):
- top.append(numbers[number])
+for i in range(0,3):
+ top.append(numbers[i])
 
 
 print(top)

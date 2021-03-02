@@ -5,7 +5,7 @@ student = {"Name":"Mary Byrne",
 {"courseName":"Programming", "Grade":71 },
 {"courseName":"Science", "Grade":72 }
 
-]   #modules are changeable list
+]   #modules are changeable list of dict items
 
 
 
@@ -14,4 +14,4 @@ student = {"Name":"Mary Byrne",
 
 print('Student: {}' .format(student["Name"])) # use square brackets to call and element from dict
 for module in student["modules"]:
-    print('Grade: {}' .format(module["Grade"]))
+    print('Course Name: {} \nGrade: {}' .format(module["courseName"],module["Grade"]))
