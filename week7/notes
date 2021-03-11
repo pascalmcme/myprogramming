@@ -1,0 +1,9 @@
+modes
+r- open existing file to read
+r+- ... and writing
+a- open or create for appending
+w-open create for writing
+x-create file
+
+t-text modes
+b-binary

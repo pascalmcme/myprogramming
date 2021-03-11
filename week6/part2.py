@@ -23,7 +23,7 @@ while (choice != 'q'):
  elif choice == 'v':
     doView()
  else:
-     print("\n please selevt either a, v or q")
+     print("\n please select either a, v or q")
  choice = displayMenu()
 
  
