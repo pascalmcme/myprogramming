@@ -1,0 +1,4 @@
+ERROR:root:this is an error
+CRITICAL:root:critical!
+WARNING:root:warning!
+INFO:root:still going
